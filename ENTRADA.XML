@@ -3,11 +3,19 @@
 
 
 <channel>
-<name>[B][COLOR red]Filmes Lançamentos[/COLOR] [COLOR purple]Dublados e Legendados 2024[/COLOR][/B]</name>
+<name>[B][COLOR grenn]Filmes Lançamentos[/COLOR] [COLOR yellow]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/main/FILMES2024.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Filmes Online Direto[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDireto [/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
@@ -25,6 +33,7 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnline [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/main/TVONLINE.XML</externallink>
 </channel>
+
 
 
 </channels>
