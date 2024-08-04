@@ -34,6 +34,21 @@
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/main/TVONLINE.XML</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR green]Tv Online PlutoTv[/COLOR] [COLOR yellow]Canais Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnlinePlutoTv [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Tv Online Runtime[/COLOR] [COLOR green]Canais Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnline Runtime [/COLOR]</info>
+<externallink></externallink>
+</channel>
 
 
 </channels>
