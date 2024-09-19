@@ -1,271 +1,177 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Band RS HD" tvg-name="Band RS SD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band RS SD
-http://playfacil.net:80/live/714912069/833623853/120218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band SP SD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band SP SD
-http://playfacil.net:80/live/714912069/833623853/61630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band MG FHD" tvg-logo="http://playfacil.net:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="BAND",Band MG FHD
-http://playfacil.net:80/live/714912069/833623853/1884911.m3u8
-#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="Band Bahia HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band Bahia HD
-http://playfacil.net:80/live/714912069/833623853/62645.m3u8
-#EXTINF:-1 tvg-id="Band Brasília HD" tvg-name="Band Brasília HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band Brasília HD
-http://playfacil.net:80/live/714912069/833623853/61625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band Cascavel PR FHD" tvg-logo="http://playfacil.net:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band Cascavel PR FHD
-http://playfacil.net:80/live/714912069/833623853/198090.m3u8
-#EXTINF:-1 tvg-id="Band Rio" tvg-name="Band RJ Full HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band RJ Full HD
-http://playfacil.net:80/live/714912069/833623853/61626.m3u8
-#EXTINF:-1 tvg-id="Band Rio HD" tvg-name="Band RJ HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band RJ HD
-http://playfacil.net:80/live/714912069/833623853/61627.m3u8
-#EXTINF:-1 tvg-id="Band RS HD" tvg-name="Band RS HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band RS HD
-http://playfacil.net:80/live/714912069/833623853/62644.m3u8
-#EXTINF:-1 tvg-id="Band São Paulo" tvg-name="Band SP Full HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band SP Full HD
-http://playfacil.net:80/live/714912069/833623853/61628.m3u8
-#EXTINF:-1 tvg-id="Band São Paulo" tvg-name="Band SP HD" tvg-logo="http://playfacil.net:80/images/35183073b0cbda6049b3fd93b57d5f36.png" group-title="BAND",Band SP HD
-http://playfacil.net:80/live/714912069/833623853/61629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://playfacil.net:80/images/87916f18b7d2ff52778c42ec1fd155ea.png" group-title="ESPORTES",Band Sports SD
-http://playfacil.net:80/live/714912069/833623853/61741.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://playfacil.net:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTES",Fox Sports 2 SD
-http://playfacil.net:80/live/714912069/833623853/61782.m3u8
-#EXTINF:-1 tvg-id="golf.br" tvg-name="Golf Channel HD" tvg-logo="http://playfacil.net:80/images/a36e4dd02747b1a06f0e73a37fd6b31c.png" group-title="ESPORTES",Golf Channel HD
-http://playfacil.net:80/live/714912069/833623853/61784.m3u8
-#EXTINF:-1 tvg-id="golf.br" tvg-name="Golf Channel HD" tvg-logo="http://playfacil.net:80/images/21b6877fb1086190fbb91f999a5a8e18.png" group-title="ESPORTES",Golf Channel HD
-http://playfacil.net:80/live/714912069/833623853/61785.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://playfacil.net:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="ESPORTES",OFF SD
-http://playfacil.net:80/live/714912069/833623853/61789.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports Full H265" tvg-logo="http://playfacil.net:80/images/87916f18b7d2ff52778c42ec1fd155ea.png" group-title="ESPORTES",Band Sports Full H265
-http://playfacil.net:80/live/714912069/833623853/61738.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports Full HD" tvg-logo="http://playfacil.net:80/images/87916f18b7d2ff52778c42ec1fd155ea.png" group-title="ESPORTES",Band Sports Full HD
-http://playfacil.net:80/live/714912069/833623853/61739.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://playfacil.net:80/images/87916f18b7d2ff52778c42ec1fd155ea.png" group-title="ESPORTES",Band Sports HD
-http://playfacil.net:80/live/714912069/833623853/61740.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 Full H265" tvg-logo="http://playfacil.net:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTES",Fox Sports 2 Full H265
-http://playfacil.net:80/live/714912069/833623853/61779.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://playfacil.net:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTES",Fox Sports 2 Full HD
-http://playfacil.net:80/live/714912069/833623853/61780.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://playfacil.net:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTES",Fox Sports 2 HD
-http://playfacil.net:80/live/714912069/833623853/61781.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF Full H265" tvg-logo="http://playfacil.net:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="ESPORTES",OFF Full H265
-http://playfacil.net:80/live/714912069/833623853/61786.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF Full HD" tvg-logo="http://playfacil.net:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="ESPORTES",OFF Full HD
-http://playfacil.net:80/live/714912069/833623853/61787.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://playfacil.net:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="ESPORTES",OFF HD
-http://playfacil.net:80/live/714912069/833623853/61788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo EPTV Campinas SD
-http://playfacil.net:80/live/714912069/833623853/61574.m3u8
-#EXTINF:-1 tvg-id="Regionais - Globo Minas" tvg-name="Globo Minas SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Minas SD
-http://playfacil.net:80/live/714912069/833623853/61493.m3u8
-#EXTINF:-1 tvg-id="Regionais - rio" tvg-name="Globo RJ SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo RJ SD
-http://playfacil.net:80/live/714912069/833623853/61497.m3u8
-#EXTINF:-1 tvg-id="Regionais - são paulo" tvg-name="Globo SP SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo SP SD
-http://playfacil.net:80/live/714912069/833623853/61502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo TV Tem Bauru SD
-http://playfacil.net:80/live/714912069/833623853/61616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem São José do Rio Preto SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo TV Tem São José do Rio Preto SD
-http://playfacil.net:80/live/714912069/833623853/61617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo TV Tribuna Santos SD
-http://playfacil.net:80/live/714912069/833623853/61619.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta ES" tvg-name="TV Gazeta Vitória ES FHD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",TV Gazeta Vitória ES FHD
-http://playfacil.net:80/live/714912069/833623853/61605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Uberlândia HD" tvg-logo="http://playfacil.net:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="GLOBO SUDESTE",Globo Integração Uberlândia HD
-http://playfacil.net:80/live/714912069/833623853/1884912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração Araxá HD" tvg-logo="http://playfacil.net:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="GLOBO SUDESTE",Globo TV Integração Araxá HD
-http://playfacil.net:80/live/714912069/833623853/1884913.m3u8
-#EXTINF:-1 tvg-id="EPTV - campinas e região" tvg-name="Globo EPTV Campinas Full HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo EPTV Campinas Full HD
-http://playfacil.net:80/live/714912069/833623853/61572.m3u8
-#EXTINF:-1 tvg-id="EPTV - campinas e região" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo EPTV Campinas HD
-http://playfacil.net:80/live/714912069/833623853/61573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Inter TV Alto Litoral HD
-http://playfacil.net:80/live/714912069/833623853/61576.m3u8
-#EXTINF:-1 tvg-id="TV Integração" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Inter TV Grande Minas FHD
-http://playfacil.net:80/live/714912069/833623853/61608.m3u8
-#EXTINF:-1 tvg-id="TV Integração" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Inter TV Grande Minas HD
-http://playfacil.net:80/live/714912069/833623853/61607.m3u8
-#EXTINF:-1 tvg-id="TV Integração - Juiz de fora" tvg-name="Globo Juiz de Fora MG Full HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Juiz de Fora MG Full HD
-http://playfacil.net:80/live/714912069/833623853/61580.m3u8
-#EXTINF:-1 tvg-id="TV Integração - Juiz de fora" tvg-name="Globo Juiz de Fora MG HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Juiz de Fora MG HD
-http://playfacil.net:80/live/714912069/833623853/61581.m3u8
-#EXTINF:-1 tvg-id="Regionais - Globo Minas" tvg-name="Globo Minas Full HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Minas Full HD
-http://playfacil.net:80/live/714912069/833623853/61491.m3u8
-#EXTINF:-1 tvg-id="Regionais - Globo Minas" tvg-name="Globo Minas HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo Minas HD
-http://playfacil.net:80/live/714912069/833623853/61492.m3u8
-#EXTINF:-1 tvg-id="Regionais - rio" tvg-name="Globo RJ Full HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo RJ Full HD
-http://playfacil.net:80/live/714912069/833623853/61495.m3u8
-#EXTINF:-1 tvg-id="Regionais - rio" tvg-name="Globo RJ HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo RJ HD
-http://playfacil.net:80/live/714912069/833623853/61496.m3u8
-#EXTINF:-1 tvg-id="TV Rio Sul" tvg-name="Globo RJ TV Rio Sul HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo RJ TV Rio Sul HD
-http://playfacil.net:80/live/714912069/833623853/61498.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP Full H265" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo SP Full H265
-http://playfacil.net:80/live/714912069/833623853/61499.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP Full HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo SP Full HD
-http://playfacil.net:80/live/714912069/833623853/61500.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo SP HD
-http://playfacil.net:80/live/714912069/833623853/61501.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta ES" tvg-name="Globo TV Gazeta Vitória ES HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo TV Gazeta Vitória ES HD
-http://playfacil.net:80/live/714912069/833623853/61606.m3u8
-#EXTINF:-1 tvg-id="TV TEM - sorocaba e região" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="http://playfacil.net:80/images/5e1ac4f2d8a5f4450aa5bacf3379fd8b.png" group-title="GLOBO SUDESTE",Globo TV Tem Sorocaba HD
-http://playfacil.net:80/live/714912069/833623853/61618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://playfacil.net:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="NOTÍCIAS",Band News SD
-http://playfacil.net:80/live/714912069/833623853/61718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://playfacil.net:80/images/8674c050e435d887334ef21e165a9c7c.png" group-title="NOTÍCIAS",CNN Brasil SD
-http://playfacil.net:80/live/714912069/833623853/61726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://playfacil.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTÍCIAS",Globo News SD
-http://playfacil.net:80/live/714912069/833623853/61730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="http://playfacil.net:80/images/fe7743e48c007adee082d81a1e22bbb1.png" group-title="NOTÍCIAS",Jovem Pan News SD
-http://playfacil.net:80/live/714912069/833623853/61733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://playfacil.net:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="NOTÍCIAS",Record News SD
-http://playfacil.net:80/live/714912069/833623853/61737.m3u8
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News Full H265" tvg-logo="http://onixtv.top:80/images/69d30449c47888ba30586f933ffb5b49.png" group-title="NOTÍCIAS",Band News Full H265
-http://playfacil.net:80/live/714912069/833623853/61715.m3u8
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="Band News Full HD" tvg-logo="http://playfacil.net:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="NOTÍCIAS",Band News Full HD
-http://playfacil.net:80/live/714912069/833623853/61716.m3u8
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="Band News HD" tvg-logo="http://playfacil.net:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="NOTÍCIAS",Band News HD
-http://playfacil.net:80/live/714912069/833623853/61717.m3u8
-#EXTINF:-1 tvg-id="BBC World" tvg-name="BBC World Full HD" tvg-logo="http://playfacil.net:80/images/99be496ab9ad1cd2b9910cecf142235a.png" group-title="NOTÍCIAS",BBC World Full HD
-http://playfacil.net:80/live/714912069/833623853/61719.m3u8
-#EXTINF:-1 tvg-id="BBC World" tvg-name="BBC World HD" tvg-logo="http://playfacil.net:80/images/99be496ab9ad1cd2b9910cecf142235a.png" group-title="NOTÍCIAS",BBC World HD
-http://playfacil.net:80/live/714912069/833623853/61720.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil Full HD" tvg-logo="http://playfacil.net:80/images/8674c050e435d887334ef21e165a9c7c.png" group-title="NOTÍCIAS",CNN Brasil Full HD
-http://playfacil.net:80/live/714912069/833623853/61724.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil Full HD²" tvg-logo="http://playfacil.net:80/images/8674c050e435d887334ef21e165a9c7c.png" group-title="NOTÍCIAS",CNN Brasil Full HD²
-http://playfacil.net:80/live/714912069/833623853/61723.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil HD" tvg-logo="http://playfacil.net:80/images/8674c050e435d887334ef21e165a9c7c.png" group-title="NOTÍCIAS",CNN Brasil HD
-http://playfacil.net:80/live/714912069/833623853/61725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Espanhol HD" tvg-logo="http://playfacil.net:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="NOTÍCIAS",CNN Espanhol HD
-http://playfacil.net:80/live/714912069/833623853/61721.m3u8
-#EXTINF:-1 tvg-id="CNNi" tvg-name="CNN Internacional HD" tvg-logo="http://playfacil.net:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="NOTÍCIAS",CNN Internacional HD
-http://playfacil.net:80/live/714912069/833623853/61722.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News Full H265" tvg-logo="http://playfacil.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTÍCIAS",Globo News Full H265
-http://playfacil.net:80/live/714912069/833623853/61727.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News Full HD" tvg-logo="http://playfacil.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTÍCIAS",Globo News Full HD
-http://playfacil.net:80/live/714912069/833623853/61728.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://playfacil.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTÍCIAS",Globo News HD
-http://playfacil.net:80/live/714912069/833623853/61729.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News Full HD" tvg-logo="http://playfacil.net:80/images/fe7743e48c007adee082d81a1e22bbb1.png" group-title="NOTÍCIAS",Jovem Pan News Full HD
-http://playfacil.net:80/live/714912069/833623853/61731.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News HD" tvg-logo="http://playfacil.net:80/images/fe7743e48c007adee082d81a1e22bbb1.png" group-title="NOTÍCIAS",Jovem Pan News HD
-http://playfacil.net:80/live/714912069/833623853/61732.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News Full HD" tvg-logo="http://playfacil.net:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="NOTÍCIAS",Record News Full HD
-http://playfacil.net:80/live/714912069/833623853/61735.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://playfacil.net:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="NOTÍCIAS",Record News HD
-http://playfacil.net:80/live/714912069/833623853/61736.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="http://playfacil.net:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="TELECINE",Telecine Action SD
-http://playfacil.net:80/live/714912069/833623853/61956.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="http://playfacil.net:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="TELECINE",Telecine Cult SD
-http://playfacil.net:80/live/714912069/833623853/61960.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="http://playfacil.net:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="TELECINE",Telecine Fun SD
-http://playfacil.net:80/live/714912069/833623853/61964.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://playfacil.net:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="TELECINE",Telecine Pipoca SD
-http://playfacil.net:80/live/714912069/833623853/61968.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://playfacil.net:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="TELECINE",Telecine Premium SD
-http://playfacil.net:80/live/714912069/833623853/61972.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://playfacil.net:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="TELECINE",Telecine Touch SD
-http://playfacil.net:80/live/714912069/833623853/61976.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action Full H265" tvg-logo="http://playfacil.net:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="TELECINE",Telecine Action Full H265
-http://playfacil.net:80/live/714912069/833623853/61953.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action Full HD" tvg-logo="http://playfacil.net:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="TELECINE",Telecine Action Full HD
-http://playfacil.net:80/live/714912069/833623853/61954.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://playfacil.net:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="TELECINE",Telecine Action HD
-http://playfacil.net:80/live/714912069/833623853/61955.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult Full H265" tvg-logo="http://playfacil.net:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="TELECINE",Telecine Cult Full H265
-http://playfacil.net:80/live/714912069/833623853/61957.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult Full HD" tvg-logo="http://playfacil.net:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="TELECINE",Telecine Cult Full HD
-http://playfacil.net:80/live/714912069/833623853/61958.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://playfacil.net:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="TELECINE",Telecine Cult HD
-http://playfacil.net:80/live/714912069/833623853/61959.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun Full H265" tvg-logo="http://playfacil.net:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="TELECINE",Telecine Fun Full H265
-http://playfacil.net:80/live/714912069/833623853/61961.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun Full HD" tvg-logo="http://playfacil.net:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="TELECINE",Telecine Fun Full HD
-http://playfacil.net:80/live/714912069/833623853/61962.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://playfacil.net:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="TELECINE",Telecine Fun HD
-http://playfacil.net:80/live/714912069/833623853/61963.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca Full H265" tvg-logo="http://playfacil.net:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="TELECINE",Telecine Pipoca Full H265
-http://playfacil.net:80/live/714912069/833623853/61965.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca Full HD" tvg-logo="http://playfacil.net:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="TELECINE",Telecine Pipoca Full HD
-http://playfacil.net:80/live/714912069/833623853/61966.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://playfacil.net:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="TELECINE",Telecine Pipoca HD
-http://playfacil.net:80/live/714912069/833623853/61967.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium Full H265" tvg-logo="http://playfacil.net:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="TELECINE",Telecine Premium Full H265
-http://playfacil.net:80/live/714912069/833623853/61969.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium Full HD" tvg-logo="http://playfacil.net:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="TELECINE",Telecine Premium Full HD
-http://playfacil.net:80/live/714912069/833623853/61970.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://playfacil.net:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="TELECINE",Telecine Premium HD
-http://playfacil.net:80/live/714912069/833623853/61971.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch Full H265" tvg-logo="http://playfacil.net:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="TELECINE",Telecine Touch Full H265
-http://playfacil.net:80/live/714912069/833623853/61973.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch Full HD" tvg-logo="http://playfacil.net:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="TELECINE",Telecine Touch Full HD
-http://playfacil.net:80/live/714912069/833623853/61974.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://playfacil.net:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="TELECINE",Telecine Touch HD
-http://playfacil.net:80/live/714912069/833623853/61975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://playfacil.net:80/images/fc93a02beef2417acb57559050863560.png" group-title="TV ABERTA",Futura SD
-http://playfacil.net:80/live/714912069/833623853/61633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record RJ SD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record RJ SD
-http://playfacil.net:80/live/714912069/833623853/61638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record SP SD
-http://playfacil.net:80/live/714912069/833623853/61642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil SD" tvg-logo="http://playfacil.net:80/images/369e978298e873f853297ca734cd6259.png" group-title="TV ABERTA",Rede Brasil SD
-http://playfacil.net:80/live/714912069/833623853/61644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV! SD" tvg-logo="http://playfacil.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="TV ABERTA",Rede TV! SD
-http://playfacil.net:80/live/714912069/833623853/61647.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP SD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT SP SD
-http://playfacil.net:80/live/714912069/833623853/61653.m3u8
-#EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="http://playfacil.net:80/images/62ed1046a3bd1db3ad598995f37504f6.png" group-title="TV ABERTA",Cultura HD
-http://playfacil.net:80/live/714912069/833623853/61631.m3u8
-#EXTINF:-1 tvg-id="Record Brasília HD" tvg-name="Record Brasília HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record Brasília HD
-http://playfacil.net:80/live/714912069/833623853/61634.m3u8
-#EXTINF:-1 tvg-id="Record TV Minas BH" tvg-name="Record Minas HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record Minas HD
-http://playfacil.net:80/live/714912069/833623853/61635.m3u8
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="Record RJ Full HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record RJ Full HD
-http://playfacil.net:80/live/714912069/833623853/61636.m3u8
-#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="Record RJ HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record RJ HD
-http://playfacil.net:80/live/714912069/833623853/61637.m3u8
-#EXTINF:-1 tvg-id="Record HD" tvg-name="Record SP 4k" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record SP 4k
-http://playfacil.net:80/live/714912069/833623853/61639.m3u8
-#EXTINF:-1 tvg-id="Record HD" tvg-name="Record SP Full HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record SP Full HD
-http://playfacil.net:80/live/714912069/833623853/61640.m3u8
-#EXTINF:-1 tvg-id="Record" tvg-name="Record SP HD" tvg-logo="http://playfacil.net:80/images/c71217496d06b06af6dc565001f382d2.png" group-title="TV ABERTA",Record SP HD
-http://playfacil.net:80/live/714912069/833623853/61641.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="http://playfacil.net:80/images/369e978298e873f853297ca734cd6259.png" group-title="TV ABERTA",Rede Brasil HD
-http://playfacil.net:80/live/714912069/833623853/61643.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV! Full HD" tvg-logo="http://playfacil.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="TV ABERTA",Rede TV! Full HD
-http://playfacil.net:80/live/714912069/833623853/61645.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV! HD" tvg-logo="http://playfacil.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="TV ABERTA",Rede TV! HD
-http://playfacil.net:80/live/714912069/833623853/61646.m3u8
-#EXTINF:-1 tvg-id="SBT Brasília HD" tvg-name="SBT Brasília HD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT Brasília HD
-http://playfacil.net:80/live/714912069/833623853/61648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT MG HD" tvg-logo="http://playfacil.net:80/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="TV ABERTA",SBT MG HD
-http://playfacil.net:80/live/714912069/833623853/169075.m3u8
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ Full HD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT RJ Full HD
-http://playfacil.net:80/live/714912069/833623853/61649.m3u8
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ HD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT RJ HD
-http://playfacil.net:80/live/714912069/833623853/61650.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP Full HD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT SP Full HD
-http://playfacil.net:80/live/714912069/833623853/61651.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://playfacil.net:80/images/78e394644ed3db353975ae589d089282.png" group-title="TV ABERTA",SBT SP HD
-http://playfacil.net:80/live/714912069/833623853/61652.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV Gazeta HD" tvg-logo="http://playfacil.net:80/images/bec8500dbf4cb6be41cf57513e5bbc6b.png" group-title="TV ABERTA",TV Gazeta HD
-http://playfacil.net:80/live/714912069/833623853/61952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa
-http://playfacil.net:80/live/714912069/833623853/1885420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 01" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 01
-http://playfacil.net:80/live/714912069/833623853/1885421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 02" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 02
-http://playfacil.net:80/live/714912069/833623853/1885422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 03" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 03
-http://playfacil.net:80/live/714912069/833623853/1885423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 04" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 04
-http://playfacil.net:80/live/714912069/833623853/1885424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 05" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 05
-http://playfacil.net:80/live/714912069/833623853/1885425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 06" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 06
-http://playfacil.net:80/live/714912069/833623853/1885426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 07" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 07
-http://playfacil.net:80/live/714912069/833623853/1885427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 08" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 08
-http://playfacil.net:80/live/714912069/833623853/1885428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 09" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 09
-http://playfacil.net:80/live/714912069/833623853/1885429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 10" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 10
-http://playfacil.net:80/live/714912069/833623853/1885430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 11" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 11
-http://playfacil.net:80/live/714912069/833623853/1885431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 12" tvg-logo="http://playfacil.net:80/images/a618c716a9fda55bd9ebfcc8d33b1a1b.png" group-title="REALITY SHOW - ESTRELA DA CASA",Estrela da Casa Cam 12
-http://playfacil.net:80/live/714912069/833623853/1885432.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://loopstatic.net/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136797
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [Alt]" tvg-logo="https://loopstatic.net/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/142161
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://loopstatic.net/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83186
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD [Alt]" tvg-logo="https://loopstatic.net/amc.png" group-title="Canais | Filmes e Séries",AMC HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136814
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://loopstatic.net/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83522
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136792
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147438
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83188
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147439
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83524
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147365
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147454
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/150167
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147455
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83532
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136801
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147680
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83191
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | Filmes e Séries",Canal Sony HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147681
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony SD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | Filmes e Séries",Canal Sony SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83534
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Filmes e Séries",Cinecanal FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136794
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Filmes e Séries",Cinecanal FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147557
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Filmes e Séries",Cinecanal HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83213
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Filmes e Séries",Cinecanal HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147558
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal SD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Filmes e Séries",Cinecanal SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83559
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136798
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD [Alt]" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147462
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83193
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD [Alt]" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147463
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83537
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="Canais | Filmes e Séries",FX FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136799
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD [Alt]" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="Canais | Filmes e Séries",FX FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147570
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="Canais | Filmes e Séries",FX HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83218
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD [Alt]" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="Canais | Filmes e Séries",FX HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147571
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="Canais | Filmes e Séries",FX SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83563
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136800
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147607
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix HD" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83235
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix HD [Alt]" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147608
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix SD" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83585
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136802
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147627
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83244
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147628
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83597
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais | Filmes e Séries",Space FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136803
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais | Filmes e Séries",Space FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147682
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais | Filmes e Séries",Space HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83254
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais | Filmes e Séries",Space HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147683
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais | Filmes e Séries",Space SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83622
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel FHD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="Canais | Filmes e Séries",Star Channel FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136793
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel FHD [Alt]" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="Canais | Filmes e Séries",Star Channel FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147555
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel HD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="Canais | Filmes e Séries",Star Channel HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83212
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel HD [Alt]" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="Canais | Filmes e Séries",Star Channel HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147556
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel SD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="Canais | Filmes e Séries",Star Channel SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83558
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136804
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD [Alt]" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="Canais | Filmes e Séries",Studio Universal FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147690
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83258
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD [Alt]" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="Canais | Filmes e Séries",Studio Universal HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147691
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal SD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83626
+#EXTINF:-1 tvg-id="AE" tvg-name="USA FHD" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/139106
+#EXTINF:-1 tvg-id="AE" tvg-name="USA FHD [Alt]" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147666
+#EXTINF:-1 tvg-id="AE" tvg-name="USA HD" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83259
+#EXTINF:-1 tvg-id="AE" tvg-name="USA HD [Alt]" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147653
+#EXTINF:-1 tvg-id="AE" tvg-name="USA SD" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83627
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="https://i.imgur.com/XAIdzUc.png" group-title="Canais | Filmes e Séries",TCM FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/163289
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/XAIdzUc.png" group-title="Canais | Filmes e Séries",TCM HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147709
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/XAIdzUc.png" group-title="Canais | Filmes e Séries",TCM SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147708
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83822
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147715
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83268
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147716
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83638
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136806
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147717
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83269
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147718
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83639
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV FHD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="Canais | Filmes e Séries",Universal Channel TV FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136805
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV FHD [Alt]" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="Canais | Filmes e Séries",Universal Channel TV FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147740
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV HD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="Canais | Filmes e Séries",Universal Channel TV HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83274
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV HD [Alt]" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="Canais | Filmes e Séries",Universal Channel TV HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147741
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV SD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="Canais | Filmes e Séries",Universal Channel TV SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83664
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/136807
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD [Alt]" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="Canais | Filmes e Séries",Warner Channel FHD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147746
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83277
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD [Alt]" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="Canais | Filmes e Séries",Warner Channel HD [Alt]
+http://splaytv.club:80/Xvn6jh/6gU1Bj/147747
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel SD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://splaytv.club:80/Xvn6jh/6gU1Bj/83660
