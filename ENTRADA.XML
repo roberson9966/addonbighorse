@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Online Direto 4K[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR green]Filmes 4K[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDireto4K [/COLOR]</info>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Online Direto Ação[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR yellow]Filmes Ação[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAção [/COLOR]</info>
@@ -43,11 +43,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Online Direto Animação Infantil[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR green]Filmes Animação Infantil[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAnimaçãoInfantil [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/main/FILMERSLINKDIRETOANIMA%C3%87%C3%83OINFANTIL.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Filmes Clássicos do Cinema[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAção [/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
