@@ -51,10 +51,18 @@
 </channel>
 
 <channel>
+<name>[B][COLOR yellow]Filmes Aventura[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoaventura [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR yellow]Filmes Clássicos do Cinema[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAção [/COLOR]</info>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoclássicosdocinema [/COLOR]</info>
 <externallink>https://github.com/roberson9966/addonbighorse/blob/main/FILMESCLASSICOSDOCINEMA.XML</externallink>
 </channel>
 
