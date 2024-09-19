@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Clássicos do Cinema[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR green]Filmes Clássicos do Cinema[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoclássicosdocinema [/COLOR]</info>
@@ -75,11 +75,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Crime[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR green]Filmes Crime[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretocrime [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/refs/heads/main/FILMESCRIME.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Filmes Drama[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
