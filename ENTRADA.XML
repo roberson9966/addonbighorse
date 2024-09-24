@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[B][COLOR yellow] =======[/COLOR] [COLOR green] Sejam Bem Vindos ao AddonBigHorse entretenimento para os usuários do BigHorse e mundo Kodi, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e se divirtam. [B][COLOR yellow] ======= [/COLOR][/B]</name>
+<name>[B][COLOR yellow] =======[/COLOR] [COLOR red] Sejam Bem Vindos ao AddonBigHorse entretenimento para os usuários do BigHorse e mundo Kodi, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e se divirtam. [B][COLOR blue] ======= [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info></info>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Lançamentos[/COLOR] [COLOR yellow]Dublados e Legendados 2024[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes Lançamentos[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Online Direto[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Online Direto[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDireto [/COLOR]</info>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes 4K[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes 4K[/COLOR] [COLOR blue] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDireto4K [/COLOR]</info>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Ação[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Ação[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAção [/COLOR]</info>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Animação Infantil[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes Animação Infantil[/COLOR] [COLOR blue] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoAnimaçãoInfantil [/COLOR]</info>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Aventura[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Aventura[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoaventura [/COLOR]</info>
@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Clássicos do Cinema[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes Clássicos do Cinema[/COLOR] [COLOR blue] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretoclássicosdocinema [/COLOR]</info>
@@ -67,7 +67,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Comédia[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Comédia[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineComédia [/COLOR]</info>
@@ -75,7 +75,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Filmes Crime[/COLOR] [COLOR yellow] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes Crime[/COLOR] [COLOR blue] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDiretocrime [/COLOR]</info>
@@ -83,7 +83,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Filmes Drama[/COLOR] [COLOR green] Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Drama[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
@@ -91,7 +91,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Séries Lançamentos[/COLOR] [COLOR yellow]Dublados e Legendados 2024[/COLOR][/B]</name>
+<name>[B][COLOR redSéries Lançamentos[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
@@ -99,7 +99,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Tv Online[/COLOR] [COLOR green]Canais Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Tv Online[/COLOR] [COLOR red]Canais Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnline [/COLOR]</info>
@@ -107,7 +107,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Tv Online 2[/COLOR] [COLOR yellow]Canais Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Tv Online 2[/COLOR] [COLOR blue]Canais Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Tv ONline 2[/COLOR]</info>
@@ -115,7 +115,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR green]Tv Online PlutoTv[/COLOR] [COLOR yellow]Canais Diversos[/COLOR][/B]</name>
+<name>[B][COLOR blue]Tv Online PlutoTv[/COLOR] [COLOR red]Canais Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnlinePlutoTv [/COLOR]</info>
@@ -123,7 +123,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]Tv Online Runtime[/COLOR] [COLOR green]Canais Diversos[/COLOR][/B]</name>
+<name>[B][COLOR red]Tv Online Runtime[/COLOR] [COLOR blue]Canais Diversos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse TvOnline Runtime [/COLOR]</info>
