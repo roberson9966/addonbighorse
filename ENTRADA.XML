@@ -91,11 +91,75 @@
 </channel>
 
 <channel>
+<name>[B][COLOR red]Filmes Faroeste[/COLOR] [COLOR blue] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes Ficcão Cientifíca[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes Guerra[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes Terror[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes 2022[/COLOR] [COLOR red] Diversos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse FilmesOnlineDrama [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR red]Séries Lançamentos[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/roberson9966/addonbighorse/main/SERIES2024.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Séries Amazon Prime[/COLOR] [COLOR blue]Diversas[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Séries Animação[/COLOR] [COLOR blue]Diversas[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Séries Animes[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Séries [/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
