@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] =======[/COLOR] [COLOR red] Sejam Bem Vindos ao AddonBigHorse entretenimento para os usuários do BigHorse e mundo Kodi, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e se divirtam. [B][COLOR blue] ======= [/COLOR][/B]</name>
+<name>[B][COLOR red] =======[/COLOR] [COLOR red] Sejam Bem Vindos ao AddonBigHorse entretenimento para os usuários do BigHorse e mundo Kodi, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e se divirtam. [B][COLOR blue] ======= [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info></info>
@@ -11,7 +11,15 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Filmes Lançamentos[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes Lançamentos 2025[/COLOR] [COLOR red]Dublados e Legendados 2024[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
+<fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Filmes Lançamentos 2024[/COLOR] [COLOR blue]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/big-horse/Big%20Horse.jpg</thumbnail>
 <fanart>https://archive.org/download/big-horse/Big%20Horse.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Big Horse Filmes [/COLOR]</info>
